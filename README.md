@@ -1,6 +1,8 @@
 # imba-file-router
 
-# usage
+Demo of file-based routing with imba + vite
+
+# Usage
 
 ```
 yarn install
