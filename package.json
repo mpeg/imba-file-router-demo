@@ -1,0 +1,15 @@
+{
+  "name": "imba-file-router",
+  "packageManager": "yarn@3.6.1",
+  "private": true,
+  "main": "src/entry.imba",
+  "type": "module",
+  "scripts": {
+    "imba": "imba",
+    "dev": "imba serve src/entry.imba"
+  },
+  "dependencies": {
+    "imba": "nightly",
+    "vite": "^4.4.9"
+  }
+}

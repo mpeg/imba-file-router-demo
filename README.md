@@ -1,2 +1,8 @@
-# imba-file-router-demo
-File-based routing with imba + vite
+# imba-file-router
+
+# usage
+
+```
+yarn install
+yarn run dev
+```
